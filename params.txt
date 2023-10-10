@@ -1,0 +1,12 @@
+Param_name  Value      Namelist
+gamma       0.0        rainmod
+trcnv       59.8443    rainmod
+fqmax       6.26803    rainmod
+rhil        1.24779    rainmod
+smf         0.0        rainmod
+rhbl        1.0        rainmod
+ndcycle     1          radmod
+tswr2       0.01       radmod
+tswr3       0.0140498  radmod
+acllwr      0.0328162  radmod
+drhssea     1.36153    seamod
